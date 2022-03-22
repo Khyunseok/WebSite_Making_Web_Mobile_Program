@@ -5,17 +5,23 @@
 
 Team Name : 
 
-Team Leader : Kim 
+Team Leader
+  Kim 
 
-Team member : Kang, Jin, Choi
+Team member
+  Kang, Jin, Choi
 
-Kim : Sever, Android 
+Kim
+  Sever, Android 
 
-Kang : DB(MySQL) 
+Kang
+  DB(MySQL) 
 
-Jin : Android 
+Jin
+  Android 
 
-Choi : HTML, CSS, JavaScript 
+Choi
+  HTML, CSS, JavaScript 
 
 
 Making Diary
@@ -31,6 +37,7 @@ Making Diary
 
 
 03/22
+
   Sever 구축
   
     Nas Iptime Nas4Dual + Switching Hub
