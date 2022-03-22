@@ -4,13 +4,13 @@
 
 Team Name : 
 
-Team Leader : Kim
+Team Leader : Kim \n
 Team member : Kang, Jin, Choi
 
-Kim : Sever, Android
-Kang : DB(MySQL)
-Jin : Android
-Choi : HTML, CSS, JavaScript
+Kim : Sever, Android \n
+Kang : DB(MySQL) \n
+Jin : Android \n
+Choi : HTML, CSS, JavaScript 
 
 Making Diary
 
